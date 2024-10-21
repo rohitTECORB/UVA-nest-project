@@ -1,0 +1,10 @@
+import * as Joi from 'joi';
+export declare const addSchema: Joi.ObjectSchema<any>;
+export declare const LoginSchema: Joi.ObjectSchema<any>;
+export declare const emailSchema: Joi.ObjectSchema<any>;
+export declare const UpdatePassSchema: Joi.ObjectSchema<any>;
+export declare const varifyPassSchema: Joi.ObjectSchema<any>;
+export declare const editProfileSchema: Joi.ObjectSchema<any>;
+export declare const UpdateStatus: Joi.ObjectSchema<any>;
+export declare const listing: Joi.ObjectSchema<any>;
+export declare const deleteSchema: Joi.ObjectSchema<any>;
